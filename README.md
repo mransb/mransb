@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mransb
 - 👀 I’m interested in programming
 - 🌱 I’m always looking forward to improve my technical skills
-- 📫 How to contact me on my email: ansab444329@gmail.com
+- 📫 You can contact me on my email: ansab444329@gmail.com
 
 
 <!---
